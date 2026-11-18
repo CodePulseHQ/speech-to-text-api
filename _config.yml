@@ -1,0 +1,20 @@
+title: "Speech to Text API"
+tagline: "Transcribe any audio or video file link with Whisper: timestamps, SRT, chunks. Long files handled for you. From $0.24 an hour."
+description: "Transcribe audio and video file links with Whisper: timestamps, SRT subtitles and RAG chunks, with long files split and stitched for you. Guides for podcasts, the 25 MB limit and costs."
+url: https://codepulsehq.github.io
+baseurl: /speech-to-text-api
+lang: en
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collection: false
+exclude:
+  - README.md
+  - LICENSE
+  - examples
+header_pages: []
+show_excerpts: false

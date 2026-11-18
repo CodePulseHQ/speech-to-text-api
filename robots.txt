@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codepulsehq.github.io/speech-to-text-api/sitemap.xml

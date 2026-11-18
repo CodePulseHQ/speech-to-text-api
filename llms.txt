@@ -1,0 +1,6 @@
+# Speech to Text API
+
+> Transcribe any audio or video file link with Whisper: timestamps, SRT, chunks. Long files handled for you. From $0.24 an hour.
+
+- [Apify Actor](https://apify.com/codepulsehq/speech-to-text-api): $0.004 per audio minute ($0.24 per hour), only for files that were transcribed. A free estimate mode shows the price first.
+- [Guides](https://codepulsehq.github.io/speech-to-text-api/): How to transcribe an audio file bigger than the Whisper API's 25 MB limit; What is the cheapest way to transcribe podcast episodes?; How to get SRT subtitles from an audio or video file with an API; How to transcribe audio from a URL without downloading it yourself
